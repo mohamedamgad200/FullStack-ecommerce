@@ -116,7 +116,7 @@ This project is a full-stack e-commerce application built using the **MEAN stack
    \`\`\`
 6. Access the application:
    - Frontend: \`http://localhost:4200\`
-   - Backend: \`http://localhost:5000\`
+   - Backend: \`http://localhost:3000\`
 
 ---
 
